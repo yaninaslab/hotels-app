@@ -1,6 +1,8 @@
 import "./App.css";
 import { useState } from "react";
 import { data } from "./data";
+import ImageSlider from "./components/ImageSlider";
+import { SliderData } from "./components/SliderData";
 
 function App() {
   const [hotels, setHotels] = useState(data);
@@ -40,7 +42,8 @@ function App() {
               </p>
             </div>
             <div className="container">
-              <img src={image} width="500px" />
+              <ImageSlider slides={SliderData} />
+              {/* <img src={image} width="500px" /> */}
             </div>
             <div className="container">
               <p>{source}</p>

@@ -1,0 +1,26 @@
+export const SliderData = [
+  {
+    image:
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/39038995.jpg?k=f7554d11e8bba0b84366408dcac342cae0251daee63689b1c06614d1d81cfc86&o=&hp=1",
+  },
+  {
+    image:
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/288687851.jpg?k=eadd687d4ebe9935634308780aa3fcacc42b3ed6cb3cf6bc100b22f70ec21b5b&o=&hp=1",
+  },
+  {
+    image:
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/39038716.jpg?k=07cbbf7a918e76ee627281d702f158cb0d89717c8c6ece0bfea33d97acfcedff&o=&hp=1",
+  },
+  {
+    image:
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/197685772.jpg?k=7946c26136a0776acad83608a74d5da49f650f6c2a5746862592747a800141cd&o=&hp=1",
+  },
+  {
+    image:
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/91600056.jpg?k=c7fbfe0ee767cb5cbd5a8389f15c480ea7a75bc52dd53cd81742f5b850723ddd&o=&hp=1",
+  },
+  {
+    image:
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/57318521.jpg?k=921174985e75f079654d9f510d8e8d85d0424743759cc2be91e775420f599c47&o=&hp=1",
+  },
+];

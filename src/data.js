@@ -6,7 +6,7 @@ export const data = [
     description:
       "This hotel has rooms and suites with kitchenettes and living room seating areas. The Hotel Beacon is on Manhattan’s Upper West Side, 805 m from Central Park. Each room and suite offers free cable on flat-screen TVs, iPod docks and WiFi access. The kitchenettes have a microwave, refrigerator and coffeemaker. Suites at the hotel have a living room with a sofa bed. The quiet and comfortable lobby offers space for visiting or reading and relaxing. There’s a business center for guest use and the hotel offers laundry service and luggage storage. The Hotel Beacon is 322 m from the American Museum of Natural History, and Lincoln Center Plaza is 1.1 km away.",
     image:
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/39038995.jpg?k=f7554d11e8bba0b84366408dcac342cae0251daee63689b1c06614d1d81cfc86&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/39038995.jpg?k=f7554d11e8bba0b84366408dcac342cae0251daee63689b1c06614d1d81cfc86&o=&hp=1",
     source: "Booking.com",
     showMore: false,
   },
